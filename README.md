@@ -16,7 +16,7 @@ I'm working on my abilities to become a better programmer.<br>I would love to fi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.memedroid.com/memes/random/" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/sameed1314?country.x=IN&locale.x=en_GB) 
