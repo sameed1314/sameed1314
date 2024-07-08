@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on my abilities to become a better programmer.<br>I would love to find people who would like to collaborate with me on small projects related to Python.<br>I'm currently learning Python and C++.<br>I don't know if I can solve any queries related to coding but I can definitely help you out with cameras and video editing.<br>and lastly,<br>I am a freelance Video Editor and now trying to explore the field of Tech. ;) 
+I'm working on my abilities to become a better programmer ;) 
 
 
 ## 🌐 Socials:
